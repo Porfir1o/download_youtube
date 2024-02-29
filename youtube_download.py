@@ -1,6 +1,6 @@
+import streamlit as st
 from pytube import YouTube
 import os
-import streamlit as st
 import time
 
 st.set_page_config(page_title="Youtube Download", layout='wide')
